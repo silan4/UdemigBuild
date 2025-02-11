@@ -1,6 +1,6 @@
 # UdemigBuild
 
--This project is a fully responsive construction-themed website built using HTML, CSS, and Bootstrap. The project aims to improve the user experience by adapting to different screen sizes.
+- This project is a fully responsive construction-themed website built using HTML, CSS, and Bootstrap. The project aims to improve the user experience by adapting to different screen sizes.
 
 # Preview
 
